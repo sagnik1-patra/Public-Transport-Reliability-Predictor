@@ -1,0 +1,70 @@
+{
+    "Model": "Hybrid AIS + QPSO (XGBoost + LSTM)",
+    "RMSE": 8.400406647129565e-07,
+    "R2_Score": 0.0,
+    "Top_5_Most_Delayed_Routes": [
+        {
+            "route_id": 1008,
+            "Hybrid_Predicted_Delay(mins)": -8.202506478482974e-07,
+            "Reliability": "\ud83d\udfe2 High",
+            "Rank": 1187.0
+        },
+        {
+            "route_id": 1027,
+            "Hybrid_Predicted_Delay(mins)": -8.303564413836284e-07,
+            "Reliability": "\ud83d\udfe2 High",
+            "Rank": 1186.0
+        },
+        {
+            "route_id": 1022,
+            "Hybrid_Predicted_Delay(mins)": -8.339521286870877e-07,
+            "Reliability": "\ud83d\udfe2 High",
+            "Rank": 1185.0
+        },
+        {
+            "route_id": 1019,
+            "Hybrid_Predicted_Delay(mins)": -8.37339939607773e-07,
+            "Reliability": "\ud83d\udfe2 High",
+            "Rank": 1184.0
+        },
+        {
+            "route_id": 1087,
+            "Hybrid_Predicted_Delay(mins)": -8.37717664126103e-07,
+            "Reliability": "\ud83d\udfe2 High",
+            "Rank": 1183.0
+        }
+    ],
+    "Top_5_Most_Reliable_Routes": [
+        {
+            "route_id": 1059,
+            "Hybrid_Predicted_Delay(mins)": -9.236895266440115e-07,
+            "Reliability": "\ud83d\udfe2 High",
+            "Rank": 5.0
+        },
+        {
+            "route_id": 1173,
+            "Hybrid_Predicted_Delay(mins)": -9.262748790206388e-07,
+            "Reliability": "\ud83d\udfe2 High",
+            "Rank": 4.0
+        },
+        {
+            "route_id": 1119,
+            "Hybrid_Predicted_Delay(mins)": -9.649098728914396e-07,
+            "Reliability": "\ud83d\udfe2 High",
+            "Rank": 3.0
+        },
+        {
+            "route_id": 1052,
+            "Hybrid_Predicted_Delay(mins)": -1.0110778703165124e-06,
+            "Reliability": "\ud83d\udfe2 High",
+            "Rank": 2.0
+        },
+        {
+            "route_id": 112,
+            "Hybrid_Predicted_Delay(mins)": -1.0336500508856261e-06,
+            "Reliability": "\ud83d\udfe2 High",
+            "Rank": 1.0
+        }
+    ],
+    "Total_Routes_Analyzed": 1187
+}

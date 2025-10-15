@@ -1,0 +1,10 @@
+features:
+- route_enc
+- stop_enc
+- stop_sequence
+- arrival_mins
+optimizer: Hybrid AIS + QPSO
+params:
+- 0.616312690683782
+- 0.8763265294854641
+- 1.0
