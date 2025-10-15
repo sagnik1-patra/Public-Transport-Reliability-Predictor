@@ -1,0 +1,13 @@
+{
+    "RMSE_XGBoost": 0.0,
+    "R2_XGBoost": 1.0,
+    "RMSE_LSTM": 1.9809872987990367e-06,
+    "R2_LSTM": 0.0,
+    "rows_used": 2250290,
+    "columns": [
+        "route_enc",
+        "stop_enc",
+        "stop_sequence",
+        "arrival_mins"
+    ]
+}

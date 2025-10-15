@@ -1,0 +1,17 @@
+features:
+- route_enc
+- stop_enc
+- stop_sequence
+- arrival_mins
+model: TransitGuard Hybrid (XGBoost + LSTM)
+sample_size: 2250290
+scaler_mean:
+- 585.1775255633719
+- 1961.8611947793395
+- 24.414589230721372
+- 901.5453119597915
+scaler_var:
+- 115298.06472204822
+- 1806917.4955236486
+- 280.9854705995915
+- 77364.06065980955
