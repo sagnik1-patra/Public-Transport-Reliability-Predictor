@@ -1,0 +1,13 @@
+{
+    "RMSE_XGBoost": 0.0,
+    "R2_XGBoost": 1.0,
+    "RMSE_LSTM": 1.981083011254303e-06,
+    "R2_LSTM": 0.0,
+    "files_saved": [
+        "accuracy_graph.png",
+        "heatmap.png",
+        "comparison_graph.png",
+        "prediction_graph.png",
+        "result_graph.png"
+    ]
+}
