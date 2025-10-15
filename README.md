@@ -1,4 +1,4 @@
-🚌 TransitGuard — AI-Powered Public Transport Reliability Predictor
+🚌 TransitGuard — AI-Powered Public Transport Reliability Predictor.
 
 Because every delay costs the city time — predict it before it happens.
 
